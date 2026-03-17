@@ -1,6 +1,6 @@
 # Welcome to Enerlinq 👋
 
-Enerlinq is a technology company focused on building and integrating business software solutions. We create open-source tools and utilities that help organizations streamline their operations, migrate data between platforms, and get the most out of modern ERP systems.
+Enerlinq is a technology company specializing in **ServiceNow**, **ERPNext**, tailored software development, artificial intelligence, and web design. We help businesses squeeze the most value from technology and automations, delivering solutions that streamline operations and drive measurable results.
 
 ## 🚀 Projects
 
